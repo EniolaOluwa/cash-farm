@@ -15,6 +15,9 @@
 # production
 /build
 
+# vscode custom settings
+/.vscode
+
 # misc
 .DS_Store
 *.pem
