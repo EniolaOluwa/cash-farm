@@ -37,6 +37,17 @@ const investments = [
     company_logo_url: null,
     bookmarked: true,
   },
+  {
+    id: 4,
+    star: "3.5",
+    interest: "40%",
+    duration: "Quater",
+    minimum: "100K",
+    company: "Balayo Global Ventures",
+    investment: "Balayo Finance",
+    company_logo_url: null,
+    bookmarked: true,
+  },
 ];
 
 export default function Home() {
